@@ -1,6 +1,8 @@
 # Record-Image-Acquisition-using-Web-Camera
 # EXP-2-Record-Image-Acquisition-using-Web-Camera
-Aim:
+## NAME : ABINAYA A
+## REG NO: 212224230004
+## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 
@@ -121,7 +123,8 @@ cap.release()
 
 ### i) Write the frame as JPG image
 </br>
-<img width="607" height="482" alt="image" src="https://github.com/user-attachments/assets/d3f35950-73a3-4aad-b941-80b8bef0418d" />
+<img width="600" height="472" alt="image" src="https://github.com/user-attachments/assets/4dd54a09-fd1c-4525-824c-6bf12ee664c4" />
+
 
 
 
@@ -131,7 +134,7 @@ cap.release()
 
 ### ii) Display the video
 </br>
-<img width="590" height="443" alt="image" src="https://github.com/user-attachments/assets/62f8dae5-409f-41e6-a457-9d9a4b00f416" />
+<img width="587" height="450" alt="image" src="https://github.com/user-attachments/assets/9d0a9b6a-85f7-4549-a859-b76163f69cef" />
 
 
 </br>
@@ -140,7 +143,8 @@ cap.release()
 ### iii) Display the video by resizing the window
 </br>
 
-<img width="297" height="443" alt="image" src="https://github.com/user-attachments/assets/5d48dcfc-d0ad-4dae-a706-51f09e992711" />
+<img width="312" height="450" alt="image" src="https://github.com/user-attachments/assets/d73d8764-89c9-4ec0-8c96-193a63ca90a0" />
+
 
 
 
@@ -151,7 +155,8 @@ cap.release()
 
 ### iv) Rotate and display the video
 </br>
-<img width="352" height="438" alt="image" src="https://github.com/user-attachments/assets/9b76ae1d-d698-4f2a-b707-a7e653a5b5cb" />
+<img width="337" height="443" alt="image" src="https://github.com/user-attachments/assets/97218211-bcc4-4021-9221-46dba5462548" />
+
 
 </br>
 
